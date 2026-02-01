@@ -102,7 +102,7 @@ SDP interoperates with:
 Together, these protocols form a complete structural language system.
 
 Version
-
+SDP v1.0.0 — Initial public specification
 
 License
 Open for research, extension, and integration under the repository’s license.
