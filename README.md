@@ -26,6 +26,7 @@ SDP provides a minimal, formal specification for:
 • 	multi‑agent redistribution of tension
 It enables consistent modeling of change, motion, and system evolution across 3–27D.
 
+
 Position in the WLM Protocol Stack
 WLM (meta-language)
 │
@@ -35,6 +36,7 @@ WLM (meta-language)
 ├── SDP System Dynamics (motion)   ← this repo
 └── SLP Structure Language (expression)
 SDP is the fifth protocol, completing the motion layer of WLM.
+
 
 Key Concepts
 Tension Flow
