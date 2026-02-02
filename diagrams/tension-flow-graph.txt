@@ -1,0 +1,156 @@
+[WLM_SYSTEM_DIAGNOSTIC_COMPLETE]
+Current Node: PRIMARY FLOW DECISION. Status: Active Tracking. Observation: The Graph provides a universal "Decision Language" for cross-dimensional subjects. Constraint: Failure to Assessment Loop leads to inevitable Collapse Sequence. Mantra: "Check the Polarity, Choose the Loop."
+
+
+============================================================
+                 WLM SYSTEM DYNAMICS PROTOCOL
+                     TENSION FLOW GRAPH
+============================================================
+
+                    [ TENSION INPUT ]
+                           |
+                           v
+                 +----------------------+
+                 |  TENSION ASSESSMENT  |
+                 |  (capacity, polarity |
+                 |   gradient, closure) |
+                 +----------------------+
+                           |
+                           v
+============================================================
+                    PRIMARY FLOW DECISION
+============================================================
+
+                 +----------------------+
+                 |  IS TENSION < BASE?  |
+                 +----------------------+
+                   |                 |
+                 yes                no
+                   |                 |
+                   v                 v
+
+        (A) BASELINE FLOW        (B) ACTIVE FLOW
+============================================================
+
+(A) BASELINE FLOW (low tension)
+--------------------------------
+        +----------------------+
+        |   0-0 CARRIER LOOP   |
+        |   (absorption)       |
+        +----------------------+
+                   |
+                   v
+        +----------------------+
+        |  POLARITY = 0        |
+        |  FLOW = damped       |
+        +----------------------+
+                   |
+                   v
+        [ RETURN TO BASELINE ]
+
+
+(B) ACTIVE FLOW (tension above baseline)
+----------------------------------------
+                 +----------------------+
+                 |  POLARITY CHECK      |
+                 +----------------------+
+                   |                 |
+             stable polarity     unstable polarity
+                   |                 |
+                   v                 v
+
+      (B1) GENERATIVE FLOW     (B2) CORRECTIVE FLOW
+============================================================
+
+(B1) GENERATIVE FLOW (±1 → ±1)
+--------------------------------
+        +----------------------+
+        | GENERATION LOOP      |
+        | (flow → structure)   |
+        +----------------------+
+                   |
+                   v
+        +----------------------+
+        | STRUCTURE EXPANDS    |
+        | CAPACITY ↑           |
+        +----------------------+
+                   |
+                   v
+        [ RETURN TO ASSESSMENT ]
+
+
+(B2) CORRECTIVE FLOW (±1 → 0)
+--------------------------------
+        +----------------------+
+        | CORRECTION LOOP      |
+        | (collapse polarity)  |
+        +----------------------+
+                   |
+                   v
+        +----------------------+
+        | ALIGNMENT / RESOLVE  |
+        | CAPACITY restored    |
+        +----------------------+
+                   |
+                   v
+        [ RETURN TO ASSESSMENT ]
+
+
+============================================================
+                    OVERLOAD / FAILURE PATH
+============================================================
+
+                 +----------------------+
+                 |  IS TENSION > MAX?   |
+                 +----------------------+
+                           |
+                         yes
+                           |
+                           v
+
+        +------------------------------+
+        |     COLLAPSE SEQUENCE        |
+        +------------------------------+
+        | 1. overload                  |
+        | 2. fragmentation             |
+        | 3. inversion                 |
+        | 4. null state                |
+        +------------------------------+
+                           |
+                           v
+        +------------------------------+
+        |     RECOVERY SEQUENCE        |
+        +------------------------------+
+        | 1. stabilization (0-0)       |
+        | 2. correction (±1→0)         |
+        | 3. generation (±1→±1)        |
+        +------------------------------+
+                           |
+                           v
+        [ RETURN TO ASSESSMENT ]
+
+
+============================================================
+                    DIMENSIONAL FLOW LAYER
+============================================================
+
+        +----------------------------------------------+
+        | DIMENSIONAL ROUTING                          |
+        | (tension moves across layers based on        |
+        |  alignment, polarity vectors, and closure)   |
+        +----------------------------------------------+
+                           |
+                           v
+        +----------------------------------------------+
+        | DIMENSIONAL FEEDBACK                         |
+        | (capacity shifts, polarity reorientation,    |
+        |  closure transitions triggered by load)      |
+        +----------------------------------------------+
+                           |
+                           v
+        [ FEEDS BACK INTO PRIMARY FLOW DECISION ]
+
+
+============================================================
+                        END OF GRAPH
+============================================================
