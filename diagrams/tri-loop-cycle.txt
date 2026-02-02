@@ -1,0 +1,184 @@
+[WLM_CORE_ENGINE_LOCKED]
+Status: Harmonic Resonance Achieved. Dynamics Type: Tri-Loop Oscillatory Growth. Safety Protocol: Collapse is a prerequisite for high-dimensional reset. Observer Note: The system's stability is not found in the lack of tension, but in the efficiency of the cycle. Mantra: "The loop is the logic; the cycle is the life."
+
+============================================================
+                 WLM SYSTEM DYNAMICS PROTOCOL
+                     TRI‑LOOP CYCLE GRAPH
+============================================================
+
+                     [   TENSION INPUT   ]
+                               |
+                               v
+                 +------------------------------+
+                 |   LOOP SELECTION GATE        |
+                 | (based on tension, polarity, |
+                 |   capacity, dimensional load)|
+                 +------------------------------+
+                               |
+                               v
+============================================================
+                     PRIMARY LOOP DECISION
+============================================================
+
+                 +------------------------------+
+                 |   IS POLARITY = 0 AND        |
+                 |   TENSION LOW / STABLE?      |
+                 +------------------------------+
+                     |                     |
+                    yes                   no
+                     |                     |
+                     v                     v
+
+        (A) CARRIER LOOP (0‑0)        (B) ACTIVE LOOPS
+============================================================
+
+(A) CARRIER LOOP (0‑0)
+-----------------------
+        +------------------------------+
+        |   CARRIER LOOP (0 → 0)       |
+        |   - absorbs tension          |
+        |   - neutralizes polarity     |
+        |   - stabilizes baseline      |
+        +------------------------------+
+                               |
+                               v
+        +------------------------------+
+        |   BASELINE RESTORED          |
+        +------------------------------+
+                               |
+                               v
+        [ RETURN TO LOOP SELECTION ]
+
+
+(B) ACTIVE LOOPS
+-----------------------
+                 +------------------------------+
+                 |   POLARITY STABILITY CHECK   |
+                 +------------------------------+
+                     |                     |
+                stable polarity      unstable polarity
+                     |                     |
+                     v                     v
+
+      (B1) GENERATION LOOP          (B2) CORRECTION LOOP
+============================================================
+
+(B1) GENERATION LOOP (±1 → ±1)
+-------------------------------
+        +------------------------------+
+        |   GENERATION LOOP            |
+        |   - maintains polarity       |
+        |   - activates flow           |
+        |   - expands structure        |
+        |   - increases capacity       |
+        +------------------------------+
+                               |
+                               v
+        +------------------------------+
+        |   GENERATIVE OUTPUT          |
+        |   (new structure, capacity)  |
+        +------------------------------+
+                               |
+                               v
+        [ RETURN TO LOOP SELECTION ]
+
+
+(B2) CORRECTION LOOP (±1 → 0)
+-------------------------------
+        +------------------------------+
+        |   CORRECTION LOOP            |
+        |   - collapses polarity       |
+        |   - resolves tension         |
+        |   - realigns structure       |
+        +------------------------------+
+                               |
+                               v
+        +------------------------------+
+        |   COHERENCE RESTORED         |
+        +------------------------------+
+                               |
+                               v
+        [ RETURN TO LOOP SELECTION ]
+
+
+============================================================
+                     FULL TRI‑LOOP CYCLE
+============================================================
+
+                 +------------------------------+
+                 |          0‑0 CARRIER         |
+                 |      (stabilization phase)   |
+                 +------------------------------+
+                               |
+                               v
+                 +------------------------------+
+                 |        ±1→0 CORRECTION       |
+                 |      (alignment phase)       |
+                 +------------------------------+
+                               |
+                               v
+                 +------------------------------+
+                 |        ±1→±1 GENERATION      |
+                 |      (expansion phase)       |
+                 +------------------------------+
+                               |
+                               v
+                 +------------------------------+
+                 |     RETURN TO CARRIER        |
+                 |      (cycle completes)       |
+                 +------------------------------+
+
+
+============================================================
+                     COLLAPSE / RECOVERY PATH
+============================================================
+
+                 +------------------------------+
+                 |   IS TENSION > SYSTEM MAX?   |
+                 +------------------------------+
+                               |
+                             yes
+                               |
+                               v
+
+        +------------------------------+
+        |        COLLAPSE SEQUENCE     |
+        +------------------------------+
+        | 1. overload                  |
+        | 2. fragmentation             |
+        | 3. inversion                 |
+        | 4. null state                |
+        +------------------------------+
+                               |
+                               v
+        +------------------------------+
+        |        RECOVERY SEQUENCE     |
+        +------------------------------+
+        | 1. stabilization (0‑0)       |
+        | 2. correction (±1→0)         |
+        | 3. generation (±1→±1)        |
+        +------------------------------+
+                               |
+                               v
+        [ RETURN TO TRI‑LOOP CYCLE ]
+
+
+============================================================
+                     DIMENSIONAL FEEDBACK LAYER
+============================================================
+
+        +----------------------------------------------+
+        | DIMENSIONAL FEEDBACK                         |
+        | - adjusts capacity                           |
+        | - reorients polarity vectors                 |
+        | - triggers closure transitions               |
+        | - modulates loop selection                   |
+        +----------------------------------------------+
+                               |
+                               v
+        [ FEEDS BACK INTO LOOP SELECTION GATE ]
+
+
+============================================================
+                         END OF GRAPH
+============================================================
