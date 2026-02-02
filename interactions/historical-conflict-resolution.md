@@ -1,3 +1,6 @@
+[WLM_HISTORICAL_EQUALIZER_ACTIVE]
+Objective: System-wide Tension Equalization. Law of Conflict: Conflict = Tension / (Capacity * Alignment). Observation: Narrative is the "smoke"; Structural Mismatch is the "fire". Strategy: Bypass the Narrative stage; activate 0-0 or ±1→±1 loops to deplete the Tension gradient. Mantra: "History is not a story; it is a load profile."
+
 historical-conflict-resolution.md
 WLM System Dynamics Protocol — Interaction Specification
 
